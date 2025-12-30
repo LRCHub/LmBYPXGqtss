@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "MAGO",
+  "base_artist": "GFRIEND",
+  "createdAt": "2025-12-30T15:56:28.566794Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "La leyenda del hada y el mago",
+      "artist": "Rata Blanca",
+      "has_synced": false,
+      "path": "select/01_La_leyenda_del_hada_y_el_mago_Rata_Blanca.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La Leyenda Del Hada Y El Mago",
+      "artist": "Rata Blanca",
+      "has_synced": true,
+      "path": "select/02_La_Leyenda_Del_Hada_Y_El_Mago_Rata_Blanca.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Atmosfera: Il mago di Natale (Ghost Track)",
+      "artist": "Irene Grandi",
+      "has_synced": true,
+      "path": "select/03_Atmosfera__Il_mago_di_Natale_(Ghost_Track)_Irene_Grandi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Il Giardino Del Mago",
+      "artist": "Banco del Mutuo Soccorso",
+      "has_synced": false,
+      "path": "select/04_Il_Giardino_Del_Mago_Banco_del_Mutuo_Soccorso.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La storia del mago",
+      "artist": "Enzo Jannacci",
+      "has_synced": true,
+      "path": "select/05_La_storia_del_mago_Enzo_Jannacci.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Walter il mago",
+      "artist": "Ligabue",
+      "has_synced": true,
+      "path": "select/06_Walter_il_mago_Ligabue.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Walter il mago",
+      "artist": "Ligabue",
+      "has_synced": true,
+      "path": "select/07_Walter_il_mago_Ligabue.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mago Magone (feat. Doxy601)",
+      "artist": "Carmen Consoli feat. Doxy601",
+      "has_synced": true,
+      "path": "select/08_Mago_Magone_(feat._Doxy601)_Carmen_Consoli_feat._Doxy601.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mago Magone",
+      "artist": "Carmen Consoli",
+      "has_synced": true,
+      "path": "select/09_Mago_Magone_Carmen_Consoli.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Como un Mago",
+      "artist": "Warcry",
+      "has_synced": true,
+      "path": "select/10_Como_un_Mago_Warcry.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gran Mago",
+      "artist": "Saratoga",
+      "has_synced": true,
+      "path": "select/11_Gran_Mago_Saratoga.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Nights (Mike Mago Remix)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/12_The_Nights_(Mike_Mago_Remix)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "MAGO",
+      "artist": "GFRIEND",
+      "has_synced": true,
+      "path": "select/13_MAGO_GFRIEND.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yu Mago Away Little Boy",
+      "artist": "Marlena Shaw",
+      "has_synced": true,
+      "path": "select/14_Yu_Mago_Away_Little_Boy_Marlena_Shaw.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Il mago pi-po-po' (Remastered in 192 KHz)",
+      "artist": "Lucio Dalla",
+      "has_synced": true,
+      "path": "select/15_Il_mago_pi-po-po'_(Remastered_in_192_KHz)_Lucio_Dalla.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAGO",
+      "artist": "GFRIEND",
+      "has_synced": false,
+      "path": "select/pl_01_MAGO_GFRIEND.txt"
+    }
+  ]
+}
