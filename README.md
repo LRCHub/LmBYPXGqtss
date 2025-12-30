@@ -1,0 +1,60 @@
+# GFRIEND – MAGO
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.97] 더 활짝 필 밤이 시작돼
+[00:19.98] 새로 쓰는 진짜 날 위한, the first page, yeah
+[00:24.48] 6960 magic, 춤추는 발끝은 crazy
+[00:28.33] 날 위한 축배를 now
+[00:34.33] 
+[00:31.93] 모든 do's and don'ts, 지루해 이젠 다
+[00:36.18] 빗자룰 타고 날아 볼래 (look at me)
+[00:40.76] 두려워하진 마 다치진 않아
+[00:47.76] 
+[00:46.82] My life is waiting for you (yes, you)
+[00:50.07] 거울 속 날 보고 웃는 그녀 (hakuna matata)
+[00:54.82] My heart is beating for you (yes, you)
+[00:58.06] No more fairy tale
+[01:00.20] 밤은 tic-tak-tic-tak (ring my heart)
+[01:17.20] 
+[01:03.97] Mago, mago, 심판해 봐 지금 날
+[01:08.13] 흔들리지 않을 테니
+[01:12.07] Mago, mago, 나를 위한 춤을 춰
+[01:16.06] 밤은 tic-tak-tic-tak (feel so high)
+[01:32.56] 
+[01:20.51] 나는 빛이자 어둠이 되고
+[01:23.89] 거짓도 진실도 될 수가 있어
+[01:27.53] 그저 원하면 원하는 대로 기쁨과 슬픔 그대로
+[01:32.42] 다 내가 될 거야
+[01:36.92] 
+[01:35.87] 불꽃은 피고 달빛이 가득해
+[01:40.12] We can dance in this moon night again (come with me)
+[01:44.63] 잔을 들어 봐 미래를 가져 봐
+[01:52.63] 
+[01:50.74] My life is waiting for you (yes, you)
+[01:54.03] 거울 속 날 보고 웃는 그녀 (hakuna matata)
+[01:58.99] My heart is beating for you (yes, you)
+[02:02.09] No more fairy tale
+[02:04.29] 밤은 tic-tak-tic-tak (ring my heart)
+[02:21.29] 
+[02:08.16] Mago, mago, 심판해 봐 지금 날
+[02:12.06] 흔들리지 않을 테니
+[02:16.03] Mago, mago, 나를 위한 춤을 춰
+[02:20.14] 밤은 tic-tak-tic-tak (feel so high)
+[02:36.64] 
+[02:24.24] In the midnight
+[02:27.72] In this midnight, oh
+[02:32.07] 불꽃의 축복 속 다시 태어나서 날아
+[02:41.57] 
+[02:39.08] My life is waiting for you (yes, you)
+[02:42.00] 거울 속 날 보고 웃는 그녀 (hakuna matata)
+[02:46.94] My heart is beating for you (yes, you)
+[02:50.10] No more fairy tale
+[02:52.27] 밤은 tic-tak-tic-tak (ring my heart)
+[03:09.27] 
+[02:56.16] Mago, mago, 심판해 봐 지금 날
+[03:00.27] 흔들리지 않을 테니
+[03:04.07] Mago, mago, 나를 위한 춤을 춰
+[03:08.13] 밤은 tic-tak-tic-tak (feel so high)
+```
